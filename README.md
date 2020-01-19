@@ -1,3 +1,13 @@
+
+#Mod
+
+PowerBoost 1000C_MOD is based on Adafruit's PowerBoost 1000C it shares the sam features with some minor modifications:
+- Minor PCB-Trace/Via ajustmens done "on-the-fly"
+- connected Dataline (D+/D-) of both USB-Connectors. It is at least in mach test-case now possible to tranfer date through the PowerBoost 1000C_MOD
+
+
+#Original readme
+
 ## Adafruit PowerBoost 1000C
 <a href="http://www.adafruit.com/products/2465"><img src="assets/image.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
@@ -20,5 +30,6 @@ Adafruit invests time and resources providing this open source design, please su
 All text above must be included in any redistribution
 
 Designed by Limor Fried/Ladyada for Adafruit Industries.
+Modifierd by tinyledmatrix 
 Creative Commons Attribution/Share-Alike, all text above must be included in any redistribution. 
 See license.txt for additional information.
